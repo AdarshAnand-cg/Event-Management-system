@@ -1,0 +1,5 @@
+Description:
+The event search functionality does not always return the correct results when users search by event name, category, or location. Some matching events may be missing, while unrelated events can appear in the results.
+
+Expected Behavior:
+Search results should accurately match the entered keyword and return only relevant events.

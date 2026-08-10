@@ -1,0 +1,10 @@
+### Bug 1: Event Creation Allows Invalid Dates  
+
+
+**Description:**
+The system allows users to create an event where the event start date is later than the end date. There is currently no proper validation to ensure that the start date and time occur before the end date and time.
+
+**Expected Behavior:**
+The system should prevent event creation when the start date/time is after the end date/time and display a clear validation message.
+
+**Priority:** Medium
