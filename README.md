@@ -19,6 +19,30 @@ It is designed with a clean and intuitive interface to provide a smooth experien
 * **User-Friendly Interface** – Simple and intuitive design for better usability.
 * **Responsive Design** – Designed to work smoothly across different screen sizes.
 
+ ## Flow Chart 
+ 
+### $main$
+
+
+├── designer  
+├── frontend  
+├── backend  
+├── treasurer  
+├── organizer  
+├── admin  
+└── documentation 
+
+
+
+
+
+
+
+
+
+
+
+
 ##  Objectives
 
 The main goal of this project is to create a centralized platform that makes event management **simple, organized, and efficient**.

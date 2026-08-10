@@ -1,0 +1,9 @@
+The Admin branch is responsible for managing and controlling the overall Event Management System. It provides authorized administrators with centralized tools to monitor users, events, registrations, financial activities, system operations, and other important aspects of the platform. The main purpose of this branch is to ensure that the system remains secure, organized, reliable, and properly managed.
+
+The Admin module allows administrators to manage user accounts, assign roles and permissions, monitor organizer activities, and handle account-related issues. It can also provide control over event approval, modification, publication, and removal, ensuring that only valid and appropriate events are available to users.
+
+Administrators can monitor registrations, attendees, event activities, and overall system usage through centralized dashboards and reports. The branch can also work with the Treasurer module to monitor financial activities, transactions, budgets, sponsorships, and payment records when administrative access is required.
+
+Security and access control are major responsibilities of the Admin branch. It ensures that users can access only the features and information permitted by their assigned roles. Administrators can also monitor suspicious activities, manage permissions, and maintain system integrity.
+
+The Admin branch integrates with the Organizer, Treasurer, Attendee, Frontend, and Backend modules to provide centralized system-level management. Overall, its goal is to maintain smooth system operations, improve security, manage users and events efficiently, and provide administrators with complete control and visibility over the Event Management System.

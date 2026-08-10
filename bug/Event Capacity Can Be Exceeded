@@ -1,0 +1,5 @@
+Description:
+The registration system allows more users to register even after the maximum capacity of an event has been reached. This can result in the number of registered participants exceeding the configured event capacity.
+
+Expected Behavior:
+Once the event reaches its maximum capacity, new registrations should be blocked and the event should be displayed as "Full" or "Registration Closed

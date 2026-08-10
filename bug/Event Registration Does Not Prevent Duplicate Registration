@@ -1,0 +1,5 @@
+Description:
+A user can register for the same event multiple times using the same account. The system does not properly check whether the user has already registered for the selected event.
+
+Expected Behavior:
+If a user is already registered for an event, the system should prevent another registration and display a message such as "You are already registered for this event."
